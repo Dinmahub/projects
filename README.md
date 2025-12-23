@@ -17,7 +17,7 @@ Welcome to Montana Express, a new and exciting virtual café chain! The café sp
 
 ![image](Montana%20Express.PNG)
 
-[View Project](https://docs.google.com/document/d/15vTLZusppgr-hHAyJ5uor2v52LS2l7APU6EUylEKDqI/edit?usp=drivesdk)
+[View Project](https://dinmahub.github.io/projects/montana.html)
 
 
 ### 3. Phillip-Hill Solution Distribution
