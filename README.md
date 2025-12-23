@@ -9,7 +9,7 @@ Anchor-Hold Retail Group is a multinational consumer goods company operating acr
 
 ![image](Anchor-Hold.PNG)
 
-[View Project](https://docs.google.com/document/d/1_fjLGoXEhm_nGPI003i1QKGBtnuk4TleI6gPMI_cGII/edit?usp=drivesdk)
+[View Project](anchorhold.html)
 
 
 ### 2. Montana Express
