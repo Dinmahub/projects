@@ -33,7 +33,7 @@ Mo'Bridget is a high-end fashion boutique specializing in designer clothing, sho
 
 ![image](dashboards/mO'BRIDGET.PNG)
 
-[View Project](https://docs.google.com/document/d/1kuYCnfL-8k86z1DBpKbwNiiNpQppQF67fXUOrvNW9rY/edit?usp=drivesdk)
+[View Project](https://dinmahub.github.io/projects/mobridget.html)
 
 
 ### 5. FutureSpace Corp
