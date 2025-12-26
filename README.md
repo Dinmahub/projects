@@ -74,7 +74,7 @@ County Plc is a data intelligence firm dedicated to h elping government, corpora
 
 ![image](dashboards/Continental%20dashboard.PNG)
 
-[View Project](https://docs.google.com/document/d/1POcGzxFbhvRTb_5NqmK1PJQ-TCKcjfRjuaXzJpwhv7E/edit?usp=drivesdk)
+[View Project](https://dinmahub.github.io/projects/county.html)
 
 
 ### 10. FusionPoint Industries
