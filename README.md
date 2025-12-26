@@ -66,7 +66,7 @@ Despite strong product quality and market presence, El Choco Bite lacks unified 
 
 ![image](dashboards/El%20Choco%20Bite.PNG)
 
-[View Project](https://docs.google.com/document/d/1fjC9ryxUgDhcnqB1Qk2pmdzJ92UVB5tLxleaqVdFATI/edit?usp=drivesdk)
+[View Project](https://dinmahub.github.io/projects/elchoco.html)
 
 
 ### 9. Continental Gross Performance
