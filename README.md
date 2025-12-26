@@ -90,7 +90,7 @@ Sprint Legacy Lab. are a leader in talent optimization, the company takes pride 
 
 ![image](dashboards/HR%20Attrition.PNG)
 
-[View Project](https://docs.google.com/document/d/1679Rm13DCBd7RS_w7pYvYqK2-RVA_9gBGbyexBRtLHI/edit?usp=drivesdk)
+[View Project](https://dinmahub.github.io/projects/sprint.html)
 
 
 ### 12. Cyclin'Gear Store
