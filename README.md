@@ -57,7 +57,7 @@ Rite-Kiosk operates in a competitive retail market, offering diverse products. T
 
 ![image](dashboards/Executive%20view.PNG)
 
-[View Project](https://docs.google.com/document/d/1HwsfdzbCF9QXKVddwwby1Z_HCR5HbHblOwhNlT3FcUI/edit?usp=sharing)
+[View Project](https://dinmahub.github.io/projects/rite.html)
 
 
 ### 8. El Choco Bite
