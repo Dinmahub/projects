@@ -82,7 +82,7 @@ FusionPoint Industries is a dynamic consumer electronics retailer serving custom
 
 ![image](dashboards/FusionPoint%20sales%20pg.PNG)
 
-[View Project](https://docs.google.com/document/d/1pBGAPlcRaNAnmfKFalCb898YuKGbhWcKphKOc9v1F1k/edit?usp=drivesdk)
+[View Project](https://dinmahub.github.io/projects/fusionpoint.html)
 
 
 ### 11. Sprint legacy Laboratory
