@@ -49,7 +49,7 @@ Thompson-Tech is a multinational consumer electronic company that operates acros
 
 ![image](dashboards/Thompson-tech%20Home.PNG)
 
-[View Project](https://docs.google.com/document/d/18rb0Zgf77lJJmDW8Zx6Wu4n-ZjK0kurGjyG9V57SUQg/edit?usp=drivesdk)
+[View Project](https://dinmahub.github.io/projects/thompson.html)
 
 
 ### 7. Rite-Kisk
