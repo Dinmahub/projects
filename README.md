@@ -98,7 +98,7 @@ Cyclin'Gear Store is a multinational retailer in cycling accessories across the 
 
 ![image](dashboards/Cyclin'Gear%20Store.PNG)
 
-[View Project](https://docs.google.com/document/d/1hEbAuVecXd_o9_jeWy9HzC7JywpGOOqoQ3IZKqTxPAc/edit?usp=sharing)
+[View Project](https://dinmahub.github.io/projects/cyclin.html)
 
 
 ### 13. MavTech Electronics
