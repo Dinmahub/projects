@@ -41,7 +41,7 @@ FutureSpace Corp is a growing technology company focused on developing innovativ
 
 ![image](dashboards/Futurespace%20Corp%201.PNG)
 
-[View Project](https://docs.google.com/document/d/1BXpPmqxdz_HT_fNA-YGCTla-i4k2O5NmD2RoOs5t3SQ/edit?usp=drivesdk)
+[View Project](https://dinmahub.github.io/projects/futurespace.html)
 
 
 ### 6. Thompson-Tech
