@@ -114,4 +114,4 @@ Streamline Logistics Soluions is recognized as a pillar of reliability within th
 
 ![image](dashboards/Streamline%20Efficiency.PNG)
 
-[View Project](https://docs.google.com/document/d/1fieIJMSVR7vB0fVrj32S-DObaYD2HgswCgCegki5aEo/edit?usp=sharing)
+[View Project](https://dinmahub.github.io/projects/streamline.html)
