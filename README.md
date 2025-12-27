@@ -106,7 +106,7 @@ MavTech Electronics Ltd is a leading player in the global consumer electronics i
 
 ![image](dashboards/MavTech%20Home%20page.PNG)
 
-[View Project](https://docs.google.com/document/d/15chI4iBH3zpdbiZr9p0uviEg6lLORU-AY3WxgYPYqGM/edit?usp=sharing)
+[View Project](https://dinmahub.github.io/projects/mavtech.html)
 
 
 ### 14. Streamline Logistics Solutions
