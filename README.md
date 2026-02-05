@@ -115,3 +115,19 @@ Streamline Logistics Soluions is recognized as a pillar of reliability within th
 ![image](dashboards/Streamline%20Efficiency.PNG)
 
 [View Project](https://dinmahub.github.io/projects/streamline.html)
+
+
+### 15. BrightCart Online Retail
+BrightCart Online Retail is a fast-growing e-commerce company specializing in consumer electronics, home goods, and lifestyle products. BrightCart experiences significant fluctuations in website traffic depending on the time of day, day of the week, and marketing campaign timing. The company also lacks comprehensive insights into the sources of this traffic.
+
+![image](dashboards/Brightcart%20Traffic.PNG)
+
+[View Project](https://dinmahub.github.io/projects/brightcart.html)
+
+
+### SQL Syntax Analytics using PostgreSQL
+This contain different ranges of syntax & Queries written to generate insights & recommendations which answer Business Challenges.
+
+![image](dashboards/SQL%20syntax%20on%20Project.png)
+
+[View Project](https://drive.google.com/drive/folders/1qQsd_8XNCwgIm0zkURhzcYUvjIUNL-7Y?usp=drive_link)
