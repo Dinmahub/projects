@@ -125,6 +125,14 @@ BrightCart Online Retail is a fast-growing e-commerce company specializing in co
 [View Project](https://dinmahub.github.io/projects/brightcart.html)
 
 
+### 16. Mass Media Perception on Cybercrime Analytics
+The mass media plays a vital role in raising public awareness of cybercrime through traditional and digital platforms. However, media coverage in Nigeria is often ineffective, as some reports sensationalize cybercriminals while public understanding of the broader national security implications remains limited.
+
+![image](dashboards/Responder%20Biographics.PNG)
+
+[View Project](https://dinmahub.github.io/projects/mediaoncybercrime.html)
+
+
 ### SQL Syntax Analytics using PostgreSQL
 This contain different ranges of syntax & Queries written to generate insights & recommendations which answer Business Challenges.
 
