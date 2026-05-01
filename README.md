@@ -133,6 +133,14 @@ The mass media plays a vital role in raising public awareness of cybercrime thro
 [View Project](https://dinmahub.github.io/projects/mediaoncybercrime.html)
 
 
+### 17. Product Campaign Metrics: Comparing Marketing Campaigns against Competitors
+This project empowers TechTech to evaluate and optimize marketing campaigns using Power BI. By analyzing campaign metrics and comparing them to competitors, it provides actionable insights to enhance brand visibility and resource allocation.
+
+![image](dashboards1/Tech%20Marketing%20page.PNG)
+
+[View Project](https://dinmahub.github.io/projects/techtechmarketing.html)
+
+
 ### SQL Syntax Analytics using PostgreSQL
 This contain different ranges of syntax & Queries written to generate insights & recommendations which answer Business Challenges.
 
