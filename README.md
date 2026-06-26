@@ -141,6 +141,14 @@ This project empowers TechTech to evaluate and optimize marketing campaigns usin
 [View Project](https://dinmahub.github.io/projects/techtechmarketing.html)
 
 
+### 18. Digital Ad Genius: Maximizing E-commerce Impact with Precision Digital Marketing Analytics
+This project empowers FreshCart to evaluate and optimize marketing campaigns budgets using Power BI by analyzing campaign metrics and comparing across platforms and States, it provides actionable insights to enhance budget allocation for subsequent campaigns.
+
+![image](dashboards1/Freshcart%20Marketing%20overview.PNG)
+
+[View Project](https://dinmahub.github.io/projects/freshcart.html)
+
+
 ### SQL Syntax Analytics using PostgreSQL
 This contain different ranges of syntax & Queries written to generate insights & recommendations which answer Business Challenges.
 
