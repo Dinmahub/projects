@@ -149,6 +149,14 @@ This project empowers FreshCart to evaluate and optimize marketing campaigns bud
 [View Project](https://dinmahub.github.io/projects/freshcart.html)
 
 
+### 19. Influence of TikTok on the Entrepreneurial Activities Among Trader in Lafenwa Market.
+Social media has transformed communication and business operations globally. TikTok has evolved beyond entertainment into a powerful marketing platform, but there are debate to whether the traders are maximizing TikTok as a digital marketing tool for their product/services. This survey is to give an indepth analysis to that debate.
+
+![image](dashboards1/TikTok%20Homepage.PNG)
+
+[View Project](https://dinmahub.github.io/projects/tiktokinfluence.html)
+
+
 ### SQL Syntax Analytics using PostgreSQL
 This contain different ranges of syntax & Queries written to generate insights & recommendations which answer Business Challenges.
 
